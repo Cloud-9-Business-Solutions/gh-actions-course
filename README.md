@@ -1,5 +1,6 @@
 # OpenSourceRepoTemplate
-OpenSourceRepoTemplate
+
+[![CodeQL Advanced](https://github.com/Cloud-9-Business-Solutions/gh-actions-course/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/Cloud-9-Business-Solutions/gh-actions-course/actions/workflows/codeql.yml)
 
 ### Table of contents
 
